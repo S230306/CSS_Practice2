@@ -1,0 +1,24 @@
+
+.btn-green{
+    background-color: darkgreen;
+    color:white;
+}
+button{
+    padding:10px;
+    margin-right: 100px;
+    border-radius: 5px;
+}
+#container{
+    background-color: grey;
+    padding:20px;
+    margin:20px 0px 20px 0px;
+}
+.code-text{
+    background-color: antiquewhite;
+    margin-bottom: 20px;
+    padding-left: 2px;
+    border-left: green;
+}
+h1{
+    background-color: blueviolet;
+}
